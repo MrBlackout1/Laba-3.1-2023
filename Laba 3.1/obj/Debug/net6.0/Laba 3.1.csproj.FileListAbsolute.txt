@@ -1,0 +1,15 @@
+D:\VS Projects\C#\Laba 3.1\Laba 3.1\bin\Debug\net6.0\Laba 3.1.exe
+D:\VS Projects\C#\Laba 3.1\Laba 3.1\bin\Debug\net6.0\Laba 3.1.deps.json
+D:\VS Projects\C#\Laba 3.1\Laba 3.1\bin\Debug\net6.0\Laba 3.1.runtimeconfig.json
+D:\VS Projects\C#\Laba 3.1\Laba 3.1\bin\Debug\net6.0\Laba 3.1.dll
+D:\VS Projects\C#\Laba 3.1\Laba 3.1\bin\Debug\net6.0\Laba 3.1.pdb
+D:\VS Projects\C#\Laba 3.1\Laba 3.1\obj\Debug\net6.0\Laba 3.1.csproj.AssemblyReference.cache
+D:\VS Projects\C#\Laba 3.1\Laba 3.1\obj\Debug\net6.0\Laba 3.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Projects\C#\Laba 3.1\Laba 3.1\obj\Debug\net6.0\Laba 3.1.AssemblyInfoInputs.cache
+D:\VS Projects\C#\Laba 3.1\Laba 3.1\obj\Debug\net6.0\Laba 3.1.AssemblyInfo.cs
+D:\VS Projects\C#\Laba 3.1\Laba 3.1\obj\Debug\net6.0\Laba 3.1.csproj.CoreCompileInputs.cache
+D:\VS Projects\C#\Laba 3.1\Laba 3.1\obj\Debug\net6.0\Laba 3.1.dll
+D:\VS Projects\C#\Laba 3.1\Laba 3.1\obj\Debug\net6.0\refint\Laba 3.1.dll
+D:\VS Projects\C#\Laba 3.1\Laba 3.1\obj\Debug\net6.0\Laba 3.1.pdb
+D:\VS Projects\C#\Laba 3.1\Laba 3.1\obj\Debug\net6.0\Laba 3.1.genruntimeconfig.cache
+D:\VS Projects\C#\Laba 3.1\Laba 3.1\obj\Debug\net6.0\ref\Laba 3.1.dll
